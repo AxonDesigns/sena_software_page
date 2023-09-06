@@ -1,6 +1,6 @@
 {
-    "name": "sena_software",
-    "short_name": "sena_software",
+    "name": "SENA Software",
+    "short_name": "SENA Software",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
